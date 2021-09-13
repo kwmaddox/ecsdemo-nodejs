@@ -1,0 +1,6 @@
+apiVesrsion: v1
+kind: Namespace
+metadata:
+  name: new-namespace
+  labels:
+    - name: new-namespace
